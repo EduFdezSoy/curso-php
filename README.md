@@ -9,3 +9,4 @@ Enseño php a través de este curso
 
 #### ¿Cuándo quieres las clases?
 Edu - 3 dias a la semana
+FJ  - 4 días a la semana, 3 horas al día
