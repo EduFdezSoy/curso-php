@@ -1,5 +1,5 @@
 # curso-php
-Enseño php a través de este curso
+Enseño php a través de este curso (y git por lo visto)
 
 ## Instrucciónes
 1. Forkea este git
