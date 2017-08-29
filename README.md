@@ -18,4 +18,4 @@ Subiré 3 lecciones+ejercicios por semana (lunes, miercoles y viernes), en un pr
   
 Los ejercicios los subiremos a github (y asi practicamos de paso) os dejaré esta semana un tuto guay por aqui que explique bien como instalar y configurar un ide, a usar git, configuración y comandos basicos del dia a dia, y a instalar un servidor local donde testear nuestro codigo y debugear.  
 También dejaré una carpeta para que hagais algunas pruebas.  
-Eso es todo, podeis seguir con vuestras vidas.  
+Ah, y os voy a hacer examenes. Eso es todo, podeis seguir con vuestras vidas.  
