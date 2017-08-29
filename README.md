@@ -11,3 +11,4 @@ Enseño php a través de este curso (y git por lo visto)
 Edu - 3 dias a la semana  
 FJ  - 4 días a la semana, 3 horas al día  
 Mario - cuando le salga a edu, pero por la tarde  
+Pitrow - 3 dias a la semana, avisar con 24h
