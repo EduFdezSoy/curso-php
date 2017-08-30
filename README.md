@@ -10,7 +10,7 @@ Ah, y os voy a hacer examenes. Eso es todo, podeis seguir con vuestras vidas.
 
 ## Indice de clases
 **1. Instalación y configuración del espacio de trabajo**  
-&nbsp;&nbsp;&nbsp;&nbsp;[1.1. Instalación de los programas a usar](https://github.com/EduFdezSoy/curso-php/blob/master/instalacion-ide.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[1.1. Instalación de los programas a usar](https://github.com/EduFdezSoy/curso-php/blob/master/instalacion-ide.md#instalaci%C3%B3n-de-ide--git)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.2. Configuración de Github Desktop](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ghd.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.3. Configuración de VS Code](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ide.md)  
 
