@@ -15,5 +15,7 @@ Ah, y os voy a hacer examenes. Eso es todo, podeis seguir con vuestras vidas.
 &nbsp;&nbsp;&nbsp;&nbsp;[1.3. Configuración de VS Code](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ide.md)  
 
 ## Recursos útiles  
-Guia rapida de Markdown -- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>  
-Pro Git Book -- <https://git-scm.com/book/en/v2>
+||||
+| ----- |:-----:| ----- |
+| Guia rapida de Markdown | <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet> |
+| Pro Git Book      | <https://git-scm.com/book/en/v2> |
