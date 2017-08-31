@@ -16,4 +16,4 @@ Por ultimo vamos a instalar un terminal **Git para Windows**, para aprender un p
   
 Y ya está, todo instalado, es hora de configurar.  
   
-[<-- Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ghd.md)  
+[<-- Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ghd.md#configuraci%C3%B3n-de-github-desktop)  
