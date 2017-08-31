@@ -16,3 +16,4 @@ Ah, y os voy a hacer examenes. Eso es todo, podeis seguir con vuestras vidas.
 
 ## Recursos útiles  
 Guia rapida de Markdown -- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>  
+Pro Git Book -- <https://git-scm.com/book/en/v2>
