@@ -1,1 +1,1 @@
-## Configuración
+## Configuración de Visual Studio Code
