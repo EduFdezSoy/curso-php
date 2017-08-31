@@ -24,4 +24,4 @@ Bueno, pues cuando pongamos el resumen es cuando le damos a *commit*, y git guar
 Más adelante explicaré un poco como funciona **git** y haremos tambien algunos commits via terminal, es muy sencillo, tanto el funcionamiento como los comandos, seguramente bastante más sencillo de lo que piensas.  
 Y bueno, aqui termina esto, en la siguiente clase pasaremos a configurar **VS Code**.  
 
-[<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/blob/master/instalacion-ide.md#instalaci%C3%B3n-de-ide--git) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ide.md)  
+[<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/blob/master/instalacion-ide.md#instalaci%C3%B3n-de-ide--git) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ide.md#configuraci%C3%B3n-de-visual-studio-code)  
