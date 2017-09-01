@@ -1,5 +1,7 @@
 # curso-php
-Enseño php a través de este curso (y git por lo visto)  
+Enseño **PHP** a través de este curso y algo de **Git**, porque parece que no sabemos usarlo.  
+No me hago responsable de los cacaos mentales que me pueda formar intentando explicar algo, si ves que la he liado parda  abre una [issue](https://github.com/EduFdezSoy/curso-php/issues) ;)  
+Más concretamente, la finalidad de este curso es aprender **PHP**, concretamente la ultima versión ([PHP 7](http://php.net/))
   
 ## Procedimiento del curso
 Subiré 3 lecciones+ejercicios por semana (lunes, miercoles y viernes), en un principio la duración de estas clases eran maximo 10 minutos leyendo mas una media hora maxima de ejercicios, pero si hay consenso puedo subir más cantidad (es el momento de hablar, antes de que organice las clases).  
@@ -19,7 +21,7 @@ Ah, y os voy a hacer examenes. Eso es todo, podeis seguir con vuestras vidas.
 ---
 
 ## Recursos útiles  
-|| Nombre | Enlace |
-| :-----: | ----- | ----- |
-|1| Guia rapida de Markdown | <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet> |
-|2| Pro Git Book      | <https://git-scm.com/book/en/v2> |
+|     | Nombre                  | Enlace                                                             |
+| :-: | ----------------------- | ------------------------------------------------------------------ |
+|  1  | Guia rapida de Markdown | <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet> |
+|  2  | Pro Git Book            | <https://git-scm.com/book/en/v2>                                   |
