@@ -1,8 +1,11 @@
-# curso-php
+# Curso PHP
 Enseño **PHP** a través de este curso y algo de **Git**, porque parece que no sabemos usarlo.  
-No me hago responsable de los cacaos mentales que me pueda formar intentando explicar algo, si ves que la he liado parda  abre una [issue](https://github.com/EduFdezSoy/curso-php/issues) ;)  
-Más concretamente, la finalidad de este curso es aprender **PHP**, concretamente la ultima versión ([PHP 7](http://php.net/))
-  
+Si quieres hacerlo sientete libre de bajar al [indice](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#indice-de-clases) y comenzar las clases.  
+
+Ojo, no me hago responsable de los cacaos mentales que me pueda formar intentando explicar algo o de los cacaos que te formes tu intentando entenderme, si ves que la he liado parda o te gustaría que te aclarase algo, abre una [issue](https://github.com/EduFdezSoy/curso-php/issues) ;)  
+
+Más concretamente, la finalidad de este curso es aprender **PHP**, concretamente la ultima versión ([PHP 7.1](http://php.net/)), **Git**, lo suficiente para colaborar en un proyecto, tanto via GUI como por terminal, y un framework, **CodeIgniter**, si todo va bien la versión 4, aún en desarrollo pero construida integramente sobre PHP 7, con las ventajas en rendimiento que ello supone.  
+
 ## Procedimiento del curso
 Subiré 3 lecciones+ejercicios por semana (lunes, miercoles y viernes), en un principio la duración de estas clases eran maximo 10 minutos leyendo mas una media hora maxima de ejercicios, pero si hay consenso puedo subir más cantidad (es el momento de hablar, antes de que organice las clases).  
   
