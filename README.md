@@ -7,11 +7,13 @@ Ojo, no me hago responsable de los cacaos mentales que me pueda formar intentand
 Más concretamente, la finalidad de este curso es aprender **PHP**, concretamente la ultima versión ([PHP 7.1](http://php.net/)), **Git**, lo suficiente para colaborar en un proyecto, tanto via GUI como por terminal, y un framework, **CodeIgniter**, si todo va bien la versión 4, aún en desarrollo pero construida integramente sobre PHP 7, con las ventajas en rendimiento que ello supone.  
 
 ## Procedimiento del curso
-Subiré 3 lecciones+ejercicios por semana (lunes, miercoles y viernes), en un principio la duración de estas clases eran maximo 10 minutos leyendo mas una media hora maxima de ejercicios, pero si hay consenso puedo subir más cantidad (es el momento de hablar, antes de que organice las clases).  
+Subiré 3 clases + ejercicios por semana *(lunes, miercoles y viernes)*, la duración de cada clase no será superior a **1o minutos**, salvo alguna excepción que se me cuele, para los **ejercicios** me aseguraré de que yo pueda hacerlos en menos de **30 minutos**, asi espero que no esteis más de **1 hora** con ellos.  
   
-Los ejercicios los subiremos a github (y asi practicamos de paso) os dejaré esta semana un tuto guay por aqui que explique bien como instalar y configurar un ide, a usar git, configuración y comandos basicos del dia a dia, y a instalar un servidor local donde testear nuestro codigo y debugear.  
-También dejaré una carpeta para que hagais algunas pruebas.  
-Ah, y os voy a hacer examenes. Eso es todo, podeis seguir con vuestras vidas.  
+Los ejercicios los subiremos a **Github** (y asi practicamos de paso) os dejaré esta semana un tuto guay por aqui que explique bien como instalar y configurar un ide, a usar **git**, configuración y comandos basicos del dia a dia, y a instalar un servidor local donde testear nuestro codigo y debugear.  
+También dejaré una carpeta en el **repo** para que hagais algunas pruebas.  
+Ah, y os voy a hacer **examenes** no os preocupeis demasiado, podeis mirar los apuntes, los recursos de abajo y todo lo que encontreis por internet, incluso podeis copiaros unos de otros, pero tened en cuenta que esto es para aprender, si vienes a copiarte no se para que lo haces.  
+
+Eso es todo, **podeis seguir con vuestras vidas**.  
 
 ---
 
