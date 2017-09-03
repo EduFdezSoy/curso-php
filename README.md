@@ -23,8 +23,6 @@ Eso es todo, **podeis seguir con vuestras vidas**.
 &nbsp;&nbsp;&nbsp;&nbsp;[1.2. Configuración de Github Desktop](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ghd.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.3. Configuración de VS Code](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ide.md)  
 
----
-
 ## Recursos útiles  
 |     | Nombre                  | Enlace                                                             |
 | :-: | ----------------------- | ------------------------------------------------------------------ |
