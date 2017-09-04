@@ -4,7 +4,7 @@ Sin más rodeos, vamos a ponernos manos a la obra.
 
 Nada más abramos el programa veremos algo asi:  
 
-![Visual Studio Code - recien abierto](https://raw.githubusercontent.com/EduFdezSoy/curso-php/master/imagenes/github-desktop.png)  
+![Visual Studio Code - recien abierto](https://raw.githubusercontent.com/EduFdezSoy/curso-php/master/imagenes/vs-code-extension.png)  
 
 Pulsaremos en el botón señalado *(pa' eso lo señalo)* y nos cambiará la barra lateral mostrandonos un buscador, primero buscaremos **PHP Debug** de *Felix Becker* por si os sale más de uno. A continuación necesitamos XDebug para nuestro ejecutable de PHP y, a la vez, para descargarnos el .dll correcto necesitamos comprobar algunos datos. Manos a la obra, encendemos nuestro **XAMPP** *(Solo necesitamos Apache encendido)* y nos vamos a la carpeta raiz donde lo instalamos, yo lo tengo en *D:\xampp* dentro de esta buscamos la carpeta *htdocs* y dentro de ella creamos un archivo llamado **info.php** con este contenido:  
 
