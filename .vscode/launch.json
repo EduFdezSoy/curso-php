@@ -14,7 +14,6 @@
             "program": "${file}",
             "cwd": "${fileDirname}",
             "port": 9000
-            
         }
     ]
 }
