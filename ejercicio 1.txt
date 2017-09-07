@@ -1,6 +1,0 @@
-$nombre = Joce Manué;
-$edad = 19;
-$vivienda = Magala;
-$adicional = ola efu apruebame xd;
-
-echo "$nombre + $edad + $vivienda + $adicional";
