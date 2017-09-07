@@ -111,9 +111,9 @@ if ($var == 'foo') {
 Podriamos ampliar sin fin nuestra condición, pero para eso mejor usar otras construcciones.  
 
 Si hay algo que no hayas entendido o tienes alguna duda de algo, ¡pregúntame!  
-Recordad el `;`
-  
-  
-## Ejercicios
-Solo uno para esta lección.  
-1- Muestra por pantalla el nombre, la edad y la ubicación de alguien (te lo puedes inventar), usa tres variables y haz que el nombre esté en negrita. Cúrratelo un poco, no me pongas "Paco32Salamanca".
+Recordad el `;`  
+
+Esta es la practica correspondiente:
+<https://github.com/EduFdezSoy/curso-php/blob/master/ejercicios/ej-01.md>  
+
+[<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/blob/master/guia-ide.md) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/php-02.md)
