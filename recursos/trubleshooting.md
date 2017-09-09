@@ -20,4 +20,4 @@ php -v
 * Hacemos click en el hueco en blanco debajo de las rutas que ya hay y a continuación hacemos click en **examinar** y buscamos la carpeta donde se encuentra nuestro **php.exe**. El mío está en `D:\xampp\php`
 * Para finalizar hacemos click en **aceptar** hasta salir de estas ventanas.  
 
-Ahora nuestro **CMD** nos dará la versión de **PHP** al insertar `php -v`
+Ahora nuestro **CMD** nos dará la versión de **PHP** al insertar `php -v`. Recordad que habrá que cerrar y abrir todos los programas para que funcione (incluso el CMD).  
