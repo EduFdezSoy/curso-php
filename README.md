@@ -1,6 +1,6 @@
 # Curso PHP
 Enseño **PHP** a través de este curso y algo de **Git**, porque parece que no sabemos usarlo.  
-Si quieres hacerlo siéntete libre de bajar al [índice](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#indice-de-clases) y comenzar las clases.  
+Si quieres hacerlo siéntete libre de bajar al [índice](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#%C3%8Dndice-de-clases) y comenzar las clases.  
 
 Ojo, no me hago responsable de los cacaos mentales que me pueda formar intentando explicar algo o de los cacaos que te formes tú intentando entenderme, si ves que la he liado parda o te gustaría que te aclarase algo, abre una [issue](https://github.com/EduFdezSoy/curso-php/issues) ;)  
 

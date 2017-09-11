@@ -86,3 +86,6 @@ $b .= " que tal";  // concatenamos a $b
 
 echo $b; //esto imprimiría "hola que tal" 
 ```
+
+
+[Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Índice del curso](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#%C3%8Dndice-de-clases)
