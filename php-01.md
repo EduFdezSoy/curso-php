@@ -2,7 +2,7 @@
 Bueno, pues empecemos por el principio.  
 Para escribir php necesitaremos que el archivo sea .php (obvio) y dentro de él tenemos que abrir el lenguaje con `<?php` y debemos cerrarlo con `?>`. Pero ojo, si no vamos a meter HTML entre el PHP *(que no deberíamos pero lo haremos en algunas prácticas porque no tiene sentido tener 3 archivos para 8 líneas. Not for production)* **no lo cerramos**. Cerrar el archivo php al final puede causar problemas al añadir las cookies o en las tranferencias de archivos. El servidor se encargará de cerrar el php a su debido tiempo.  
 
-## variables
+## Variables
 ```php
 
 $edad = 42;          // esta var es un int
@@ -11,7 +11,7 @@ $nombre = "Edu";     // y esta un char
 ```
 Fácil, ¿no? Pues sigamos.
 
-## mostrar info por pantalla
+## Mostrar info por pantalla
 
 Tenemos dos formas de hacerlo pero salvo algún caso muy especial usaremos solo la primera.
 
@@ -109,6 +109,15 @@ if ($var == 'foo') {
 ```
 
 Podriamos ampliar sin fin nuestra condición, pero para eso mejor usar otras construcciones.  
+
+## Generar aleatorios
+Por último y para dar más juego a los ejercicios de las practicas os voy a enseñar como generar un número aleatorio dado un rango con la función `mt_rand()`. Su funcionamiento es fácil, dentro de los parentesis ponemos el número mínimo, una coma, y el número maximo del rango. Pongo ejemplo:  
+
+```php
+$aleatorio = mt_rand(10,20);
+```
+
+Esto hará que `$alatorio` sea un número *aleatorio* entre 10 y 20, ambos incluidos. Y ya está.  
 
 Si hay algo que no hayas entendido o tienes alguna duda de algo, ¡pregúntame!  
 Recordad el `;`  
