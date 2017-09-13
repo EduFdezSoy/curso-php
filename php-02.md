@@ -8,6 +8,7 @@ Pero antes, si aún no has leido la guía de [operadores](https://github.com/Edu
 El bucle `while` es el más común, su estructura es similar a la de un `if`, tendremos la condición y el código. Este codigo se estará ejecutando mientras se cumpla la condición, un ejemplo:
 
 ```php
+// el más común, con un contador
 $ejemplo1 = 0;
 
 while ($ejemplo1 < 5) {
@@ -17,6 +18,7 @@ while ($ejemplo1 < 5) {
 
 }
 
+// tambien podemos usar un string, aunque no sea lo más normal
 $ejemplo2 = "hola";
 
 while ($ejemplo2 != "holaaaa") {
@@ -26,6 +28,7 @@ while ($ejemplo2 != "holaaaa") {
 
 }
 
+// para el ultimo ejemplo he usado un booleano (TRUE/FALSE)
 $ejemplo3 = TRUE;
 
 while ($ejemplo3 = TRUE) {
