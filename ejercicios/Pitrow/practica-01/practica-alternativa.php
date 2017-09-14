@@ -7,7 +7,7 @@ $pepe = [
     "add" => "una galasia mu lejos"
 ];
 
-$randInvs = [0 => 15, 1 => 29];
+$randInvs = [0 => mt_rand(0, 10000), 1 => mt_rand(20, 500)];
 
 echo "[Pepe] - Soy ", $pepe["name"], ", tengo ", $pepe["age"], " años, y vivo en ", $pepe["add"], "\n";
 
