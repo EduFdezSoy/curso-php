@@ -102,6 +102,6 @@ Este bucle sólo se ejecutará una vez, ya que el `break` lo rompe.
 Puede parecer poco útil así, pero si lo metemos en un `if` que compruebe algo primero, el `break` puede sernos muy útil.  
 
 Esta es la practica correspondiente:
-<https://github.com/EduFdezSoy/curso-php/blob/master/ejercicios/ej-03.md>  
+<https://github.com/EduFdezSoy/curso-php/blob/master/ejercicios/ej-02.md>  
 
 [<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/blob/master/php-02.md) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/php-03.md)
