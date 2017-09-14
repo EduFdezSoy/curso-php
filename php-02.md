@@ -66,3 +66,20 @@ do {
 ```
 
 ## Bucle for
+Este bucle es más complejo que los dos anteriores y, en algunos casos, más útil. Es posible que no veamos nunca el momento adecuado para usar un bucle `for` y es que todo lo que podemos hacer con `for` lo podemos hacer con `while` pero ojo, no todo lo que podemos hacer con `while` lo podemos hacer con un `for`.  
+
+Este bucle se divide en tres partes más el código interior del bucle. La primera define una **variable contador**, la segunda es la **condición** que, de ser `TRUE` hará que se ejecute el código del bucle. La tercera se ejecutará al final de cada iteración.  
+
+En este ejemplo, primero definimos `$i`, que es nuestro **contador**, a continuación comprobamos si `$i` es menor o igual que 10, es nuestra **condición** y, por último, sumamos uno a nuestro contador `$i`.  
+Cuando `$i` sea 11 no cumplirá la **condición** y escapará del bucle.
+
+```php
+
+for($i = 1; $i <= 10; $i++) {
+
+    echo "Hola mamá, soy útil.";
+
+}
+
+```
+
