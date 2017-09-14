@@ -99,4 +99,6 @@ for($i = 1; $i <= 10; $i++) {
 ```
 
 Este bucle sólo se ejecutará una vez, ya que el `break` lo rompe.  
-Puede parecer poco útil así, pero si lo metemos en un `if` que compruebe algo primero, el `break` puede sernos muy útil.
+Puede parecer poco útil así, pero si lo metemos en un `if` que compruebe algo primero, el `break` puede sernos muy útil.  
+
+[<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/blob/master/php-02.md) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/php-03.md)
