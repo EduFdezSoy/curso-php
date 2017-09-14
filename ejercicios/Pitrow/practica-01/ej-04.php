@@ -13,7 +13,7 @@ switch (true){
     case $asistentes > 7000:
         echo "Illo se nos ha petao el garito, sal pa fuera k desalojamo";
         break;
-    case $asistentes > 10 && $asistentes < 20 && $invitados < 30:
+    case $asistentes > 10 && $asistentes <= 20 && $invitados < 30:
         echo "La fiesta es estupenda, hay tarta para todos";
         break;
 };
