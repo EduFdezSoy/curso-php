@@ -83,3 +83,20 @@ for($i = 1; $i <= 10; $i++) {
 
 ```
 
+## Break
+Para terminar la clase de hoy veremos el `break`. `Break`, insertado en un bucle, romperá el bucle inmediatamente. 
+Usemos el ejemplo anterior e insertemos un `break`:
+
+```php
+
+for($i = 1; $i <= 10; $i++) {
+
+    echo "Hola mamá, soy útil.";
+    break;
+
+}
+
+```
+
+Este bucle sólo se ejecutará una vez, ya que el `break` lo rompe.  
+Puede parecer poco útil así, pero si lo metemos en un `if` que compruebe algo primero, el `break` puede sernos muy útil.
