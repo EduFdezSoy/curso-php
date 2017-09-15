@@ -75,6 +75,10 @@ $a -= 3;  // resta 3 a $a
 $a *= 3;  // multiplica $a por 3
 $a /= 3;  // divide $a por 3
 $a %= 3;  // hace el modulo de $a para 3
+
+// Tambien podemos sumar 1 o restar 1 a una var de esta forma:
+$a++;  // esto es igual que '$a = $a+1'
+$a--;  // esto es igual que '$a = $a-1'
 ```
 
 En el caso de strings:
