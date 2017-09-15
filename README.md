@@ -27,6 +27,7 @@ Eso es todo, **podeis seguir con vuestras vidas**.
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1. Episodio 01](https://github.com/EduFdezSoy/curso-php/blob/master/php-01.md#php---episodio-01)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2. Episodio 02](https://github.com/EduFdezSoy/curso-php/blob/master/php-01.md#php---episodio-01)  
 
+
 ## Recursos útiles  
 |     | Nombre                    | Enlace                                                                           |
 | :-: | ------------------------- | -------------------------------------------------------------------------------- |
