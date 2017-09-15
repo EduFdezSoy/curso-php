@@ -24,8 +24,9 @@ Eso es todo, **podeis seguir con vuestras vidas**.
 &nbsp;&nbsp;&nbsp;&nbsp;[1.3. Configuración de VS Code](https://github.com/EduFdezSoy/curso-php/blob/master/configuracion-ide.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.4. Guía de uso de VS Code](https://github.com/EduFdezSoy/curso-php/blob/master/guia-ide.md#gu%C3%ADa-de-uso-de-visual-studio-code)  
 **2. Clases de PHP**  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Episodio 01](https://github.com/EduFdezSoy/curso-php/blob/master/php-01.md#php---episodio-01)
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Episodio 02](https://github.com/EduFdezSoy/curso-php/blob/master/php-02.md#php---episodio-02)   
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1. Episodio 01](https://github.com/EduFdezSoy/curso-php/blob/master/php-01.md#php---episodio-01)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2. Episodio 02](https://github.com/EduFdezSoy/curso-php/blob/master/php-01.md#php---episodio-01)  
+
 
 ## Recursos útiles  
 |     | Nombre                    | Enlace                                                                           |

@@ -117,7 +117,7 @@ Por último y para dar más juego a los ejercicios de las practicas os voy a ens
 $aleatorio = mt_rand(10,20);
 ```
 
-Esto hará que `$alatorio` sea un número *aleatorio* entre 10 y 20, ambos incluidos. Y ya está.  
+Esto hará que `$aletorio` sea un número *aleatorio* entre 10 y 20, ambos incluidos. Y ya está.  
 
 Si hay algo que no hayas entendido o tienes alguna duda de algo, ¡pregúntame!  
 Recordad el `;`  
