@@ -32,7 +32,7 @@ while ($ejemplo2 != "holaaaa") {
 // para el ultimo ejemplo he usado un booleano (TRUE/FALSE)
 $ejemplo3 = TRUE;
 
-while ($ejemplo3 = TRUE) {
+while ($ejemplo3 == TRUE) {
 
     echo "otro bucle distinto";
     
