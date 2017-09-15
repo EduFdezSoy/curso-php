@@ -49,7 +49,7 @@ Eso es todo, estos bucles son muy sencillos, sólo asegurate de no crear un bucl
 Si tienes alguna duda, ¡abre una [issue](https://github.com/EduFdezSoy/curso-php/issues)!  
 
 ## Bucle do-while
-El `do-while` es similar a l `while` salvo que la expresión se verifica tras cada iteración, en lugar de al principio.  
+El `do-while` es similar al `while` salvo que la expresión se verifica tras cada iteración, en lugar de al principio.  
 Este bucle es bastante útil si queremos que la porción de código del `while` se ejecute **al menos** una vez.  
 Un ejemplo:
 
