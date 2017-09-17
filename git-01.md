@@ -27,9 +27,8 @@ git pull upstream master
 ```
 **Ojo:** este comando lo tendremos que poner cada vez que queramos actualizar el fork.
 
-Lo que hacemos con este comando es **tirar** *(pull)* de los cambios de **upstream**, que es el original, de la rama **master**.
+Lo que hacemos con este comando es **tirar** *(pull)* de los cambios de **upstream**, que es el original, de la rama **master**.  
 
+*Gracias a Cristina Solana por este [Gist](https://gist.github.com/CristinaSolana/1885435).*  
 
-
-
-https://gist.github.com/CristinaSolana/1885435
+[Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/git-02.md)
