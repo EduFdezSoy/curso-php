@@ -11,7 +11,7 @@ Una vez tengamos el **Terminal** abierto veremos que nos sale la cabecera *"Wind
 
 Ahora vamos a introducir este comando:
 ```git
-git remote add upstream git@github.com:EduFdezSoy/curso-php.git
+git remote add upstream https://github.com/EduFdezSoy/curso-php.git
 ```
 y a continuación:
 ```git
