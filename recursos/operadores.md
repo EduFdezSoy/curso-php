@@ -49,6 +49,7 @@ $a = $b * $c // multiplicacion
 $a = $b / $c // division
 $a = $b % $c // modulo (el resto de la division)
 $a = $b ** $c // exponenciación ($b elevado a $c)
+sqrt($a) // raiz cuadrada de $a
 ```
 
 ## Lógicos
