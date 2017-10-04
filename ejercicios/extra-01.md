@@ -18,7 +18,7 @@
 *Este es fácil ;)*  
 
 8. Dadas dos variables de entrada (radio y altura), calcula el area lateral y el volumen de un cilindro.  
-![Cilindro chuleta](https://raw.githubusercontent.com/EduFdezSoy/curso-php/master/imagenes/cilindro.gif)  
+![Cilindro chuleta](https://raw.githubusercontent.com/EduFdezSoy/curso-php/master/imagenes/cilindro.GIF)  
 
 9. haz un algoritmo que muestre los números primos hasta el 25. Pon el 25 en una variable, asi podemos cambiarlo facilmente por otro número en el futuro.  
 
