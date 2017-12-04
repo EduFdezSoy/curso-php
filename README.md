@@ -1,5 +1,4 @@
-# Curso PHP
-[![GitHub forks](https://img.shields.io/github/forks/EduFdezSoy/curso-php.svg)](https://github.com/EduFdezSoy/curso-php/network) [![GitHub stars](https://img.shields.io/github/stars/EduFdezSoy/curso-php.svg)](https://github.com/EduFdezSoy/curso-php/stargazers)
+# Curso PHP [![GitHub forks](https://img.shields.io/github/forks/EduFdezSoy/curso-php.svg)](https://github.com/EduFdezSoy/curso-php/network) [![GitHub stars](https://img.shields.io/github/stars/EduFdezSoy/curso-php.svg)](https://github.com/EduFdezSoy/curso-php/stargazers)
   
 Enseño **PHP** a través de este curso y algo de **Git**, porque parece que no sabemos usarlo.  
 Si quieres hacerlo siéntete libre de bajar al [índice](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#%C3%8Dndice-de-clases) y comenzar las clases.  
