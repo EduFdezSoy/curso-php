@@ -35,9 +35,10 @@ Eso es todo, **podeis seguir con vuestras vidas**.
 
 
 ## Recursos útiles  
-|     | Nombre                    | Enlace                                                                           |
-| :-: | ------------------------- | -------------------------------------------------------------------------------- |
-|  1  | Guía rápida de Markdown   | <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>               |
-|  2  | Pro Git Book              | <https://git-scm.com/book/en/v2>                                                 |
-|  3  | Troubleshooting del curso | <https://github.com/EduFdezSoy/curso-php/blob/master/recursos/trubleshooting.md> |
-|  4  | Operadores de PHP         | <https://github.com/EduFdezSoy/curso-php/blob/master/recursos/operadores.md>     |
+|     | Nombre                    | Enlace                                                                                   |
+| :-: | ------------------------- | ---------------------------------------------------------------------------------------- |
+|  1  | Guía rápida de Markdown   | <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>                       |
+|  2  | Pro Git Book              | <https://git-scm.com/book/en/v2>                                                         |
+|  3  | Troubleshooting del curso | <https://github.com/EduFdezSoy/curso-php/blob/master/recursos/trubleshooting.md>         |
+|  4  | Operadores de PHP         | <https://github.com/EduFdezSoy/curso-php/blob/master/recursos/operadores.md>             |
+|  5  | Variables Predefinidas    | <https://github.com/EduFdezSoy/curso-php/blob/master/recursos/variables_predefinidas.md> |
