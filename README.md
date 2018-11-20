@@ -27,7 +27,9 @@ Eso es todo, **podeis seguir con vuestras vidas**.
 **2. Clases de PHP**  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1. Episodio 01](https://github.com/EduFdezSoy/curso-php/blob/master/php-01.md#php---episodio-01)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2. Episodio 02](https://github.com/EduFdezSoy/curso-php/blob/master/php-02.md#php---episodio-02)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Episodio 03](https://github.com/EduFdezSoy/curso-php/blob/master/php-03.md#php---episodio-03)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Episodio 03](https://github.com/EduFdezSoy/curso-php/blob/master/php-03.md#php---episodio-03) 
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3. Episodio 04 - Clases (en desarrollo)](https://github.com/EduFdezSoy/curso-php/blob/master/php-04.md#php---episodio-04) 
+
 **3. Clases de Git**  
 &nbsp;&nbsp;&nbsp;&nbsp;[3.1. Episodio 01](https://github.com/EduFdezSoy/curso-php/blob/master/git-01.md)  
 
