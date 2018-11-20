@@ -10,6 +10,7 @@ $nombre = "Edu";     // y esta un char
 
 ```
 Todas las variables se definen con `$` y se suelen poner en minusculas.  
+*Ojo, las variables solo pueden empezar por mayuscula, minuscula o gui&oacute;n bajo (`_`), nada de numeros o simbolos.*  
 
 ## Constantes
 ```php
