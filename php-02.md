@@ -104,4 +104,4 @@ Puede parecer poco útil así, pero si lo metemos en un `if` que compruebe algo 
 Esta es la practica correspondiente:
 <https://github.com/EduFdezSoy/curso-php/blob/master/ejercicios/ej-02.md>  
 
-[<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/blob/master/php-02.md) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/php-03.md)
+[<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/blob/master/php-01.md) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/php-03.md)
