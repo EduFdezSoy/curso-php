@@ -90,6 +90,8 @@ $hola
 
 ```
 
+En ambos casos si metemos una `CONSTANTE` entre comillas no se mostrará.  
+
 Con las variables pasa igual: Si pongo dobles podré meter una función dentro (u otra variable) y guardará su resultado, si las pongo simples escapará todo lo que haya dentro y lo almacenará sin más.  
 *Ojo, si vamos a meter el resultado de una función en una var no tenemos por qué necesitar comillas, es solo un ejemplo.*  
 
