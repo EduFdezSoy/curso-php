@@ -9,6 +9,21 @@ $edad = 42;          // esta var es un int
 $nombre = "Edu";     // y esta un char
 
 ```
+
+## Constantes
+```php
+
+define("EDAD", 42);
+define("NOMBRE", "Edu"); 
+
+```
+Las constantes se definen de esta forma, para usarla simplemente la llamamos por su nombre:
+```php
+
+print NOMBRE;
+
+```
+
 Fácil, ¿no? Pues sigamos.
 
 ## Mostrar info por pantalla
