@@ -9,7 +9,7 @@ $edad = 42;          // esta var es un int
 $nombre = "Edu";     // y esta un char
 
 ```
-Todas las variables se definen con $ y se suelen poner en minusculas.  
+Todas las variables se definen con `$` y se suelen poner en minusculas.  
 
 ## Constantes
 ```php
