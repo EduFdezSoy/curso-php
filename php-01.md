@@ -9,6 +9,7 @@ $edad = 42;          // esta var es un int
 $nombre = "Edu";     // y esta un char
 
 ```
+Todas las variables se definen con $ y se suelen poner en minusculas.  
 
 ## Constantes
 ```php
@@ -17,10 +18,10 @@ define("EDAD", 42);
 define("NOMBRE", "Edu"); 
 
 ```
-Las constantes se definen de esta forma, para usarla simplemente la llamamos por su nombre:
+Las constantes se definen de esta forma y, normalmente, en mayusculas. Para usarla simplemente la llamamos por su nombre:
 ```php
 
-print NOMBRE;
+print EDAD;
 
 ```
 
