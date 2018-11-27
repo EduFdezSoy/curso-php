@@ -34,7 +34,7 @@ echo $arrayDias["nombre"]; // mostrara: Eduardo
 Otra forma de definir una array *(asociativo o no)* es con la palabra reservada **array()**, simplemente reemplazamos los corchetes con la palabra array y unos parentesis.
 ```php
 
-$arrayDias = array(lunes", "martes", "miercoes", "jueves", "viernes");
+$arrayDias = array("lunes", "martes", "miercoes", "jueves", "viernes");
 $arrayPersona = array("nombre" => "Eduardo", "apellido" => "Fernandez");
 
 ```
