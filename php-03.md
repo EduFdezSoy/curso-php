@@ -52,6 +52,7 @@ echo $saludoBidimensional[0][0];    // hola
 echo $saludoBidimensional[1][0];    // hello
 
 ```
+
 Ahora usar **array()** tiene m&aacute;s sentido pues nos permite formatear nuestro c&oacute;digo de forma mucho m&aacute;s legible:
 ```php
 
@@ -68,4 +69,25 @@ $saludoBidimensional = array(
 
 ```
 
-[<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/edit/master/php-02.md) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/php-04.md)
+## Foreach
+Para recorrer los arrays mejor no usar un **for**, estos arrays pueden saltarse indices *(0,1,3,4)* o, en el caso de los asociativos, ni siquiera sabemos cual es su indice numerico *(que lo tienen)*. Para los arrays entonces usaremos los **foreach**.  
+
+Ejemplo de foreach:
+```php
+
+foreach($arrayDias as $dia)
+{
+  echo $dia;
+}
+
+```
+esto devuelve:
+```php
+lunes
+martes
+miercoes
+jueves
+viernes
+```
+
+[<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/blob/master/php-02.md) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/php-04.md)
