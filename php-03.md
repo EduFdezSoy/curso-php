@@ -19,6 +19,25 @@ y accedemos a el asi:
 echo $arrayDias[2]; // mostrara: martes
 
 ```
+Tambien podemos crear arrays **asociativos**, es decir, su indice en lugar de ser 0,1,2... ser&aacute; el nombre que escojamos, ejemplo:
+```php
+
+$arrayPersona = ["nombre" => "Eduardo", "apellido" => "Fernandez"];
+
+```
+al acceder usamos el nombre:
+```php
+
+echo $arrayDias["nombre"]; // mostrara: Eduardo
+
+```
+Otra forma de definir una array *(asociativo o no)* es con la palabra reservada **array()**, simplemente reemplazamos los corchetes con la palabra array y unos parentesis.
+```php
+
+$arrayDias = array(lunes", "martes", "miercoes", "jueves", "viernes");
+$arrayPersona = array("nombre" => "Eduardo", "apellido" => "Fernandez");
+
+```
 
 Si queremos un **array multidimensional** simplemente ponemos mas corchetes:
 ```php
