@@ -52,5 +52,20 @@ echo $saludoBidimensional[0][0];    // hola
 echo $saludoBidimensional[1][0];    // hello
 
 ```
+Ahora usar **array()** tiene m&aacute;s sentido pues nos permite formatear nuestro c&oacute;digo de forma mucho m&aacute;s legible:
+```php
+
+$saludoBidimensional = array(
+                            array(
+                                  "hola",
+                                  "adios"
+                                  ),
+                            array(
+                                  "hello",
+                                  "bye"
+                                  )
+                            );
+
+```
 
 [<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/edit/master/php-02.md) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/php-04.md)
