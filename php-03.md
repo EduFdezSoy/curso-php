@@ -69,6 +69,11 @@ $saludoBidimensional = array(
 
 ```
 
+Por ultimo, de los arrays debemos saber como contarlos, es simple,
+```php
+count($arrayDias);   // devuelve 5
+```
+
 ## Foreach
 Para recorrer los arrays mejor no usar un **for**, estos arrays pueden saltarse indices *(0,1,3,4)* o, en el caso de los asociativos, ni siquiera sabemos cual es su indice numerico *(que lo tienen)*. Para los arrays entonces usaremos los **foreach**.  
 
@@ -89,5 +94,6 @@ miercoes
 jueves
 viernes
 ```
+
 
 [<-- Clase anterior](https://github.com/EduFdezSoy/curso-php/blob/master/php-02.md) - [Volver al Readme](https://github.com/EduFdezSoy/curso-php/blob/master/README.md#curso-php) - [Siguiente clase -->](https://github.com/EduFdezSoy/curso-php/blob/master/php-04.md)
